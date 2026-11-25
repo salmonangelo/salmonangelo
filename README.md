@@ -114,4 +114,3 @@ Love coding python</sub></p>
 </tr>
 </table>
 
-<p align="center"><sub>Salmon Angelo S · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
