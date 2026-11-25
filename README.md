@@ -68,18 +68,6 @@ Love coding python</sub></p>
 <p><sub>HTML · ⭐ 3 · 🍴 0</sub></p>
 <p><a href="https://github.com/salmonangelo/wildfire-risk-intelligence">Read the repository →</a></p>
 </td>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=salmonangelo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147487328%3Fu%3De47681a6857b52ded9f25285b1d87a9da849e4b4%26v%3D4&repos=salmonangelo%2FSonar-Intel&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=salmonangelo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147487328%3Fu%3De47681a6857b52ded9f25285b1d87a9da849e4b4%26v%3D4&repos=salmonangelo%2FSonar-Intel&v=recruiter-projects-1&mode=dark" width="100%" alt="Salmon Angelo S selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/salmonangelo/Sonar-Intel">Sonar-Intel</a></h3>
-<p>AI-Powered Automated Underwater Marine Debris and Anomaly Detection System using Side-Scan Sonar Imagery</p>
-<p><sub>HTML · ⭐ 3 · 🍴 1</sub></p>
-<p><a href="https://github.com/salmonangelo/Sonar-Intel">Read the repository →</a></p>
-</td>
 </tr>
 </table>
 
